@@ -1,0 +1,12 @@
+.fi-brands-dribbble, .fi-brands-behance, .fi-brands-github, .fi-brands-whatsapp, .fi-brands-instagram{
+    color: #151515;
+}
+
+.fi-brands-behance, .fi-brands-dribbble, .fi-brands-github, .fi-brands-instagram, .fi-brands-whatsapp{
+    padding: 0 14px;
+    font-size: 24px;
+}
+
+.fi-brands-behance:hover, .fi-brands-dribbble:hover, .fi-brands-github:hover, .fi-brands-instagram:hover, .fi-brands-whatsapp:hover{
+    transform: scale(1.5);
+}
